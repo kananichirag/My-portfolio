@@ -1,0 +1,27 @@
+[
+  {
+    "title": "RoyalE-state",
+    "imageSrc": "projects/reatstate.jpg",
+    "description": "This is a project made to learn the latest languages by building an website.",
+    "skills": ["React", "Express", "Node","Fire-base"],
+    "demo": "https://real-estate-c75u.onrender.com",
+    "source": "https://github.com/kananichirag/Real-Estate"
+  },
+  {
+    "title": "Builder-site",
+    "imageSrc": "projects/builder.jpg",
+    "description": "This is a project to manage the flow of row material and controls.",
+    "skills": ["React", "Express", "Node","Mongo-DB"],
+    "demo": "https://real-estate-c75u.onrender.com",
+    "source": "https://github.com/kananichirag/Material-1"
+  },
+  {
+    "title": "Bloging-site",
+    "imageSrc": "projects/blog.webp",
+    "description": "This is a simple blog site for user to post blog and read.",
+    "skills": ["React", "Express", "Node","Mongo-DB"],
+    "demo": "https://real-estate-c75u.onrender.com",
+    "source": "https://github.com/kananichirag/Material-1"
+  }
+  
+]
